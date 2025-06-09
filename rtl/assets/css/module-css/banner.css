@@ -223,7 +223,7 @@
     position: relative;
     display: block;
     background: var(--thm-body-background);
-    padding: 255px 0px 140px;
+    padding: 100px 0px 140px;
     z-index: 1;
 }
 
