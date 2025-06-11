@@ -1,5 +1,9 @@
+<script setup lang="ts">
+
+</script>
+
 <template>
-  <div class="services-one services-one--services">
+  <div class="services-one body-dark-bg services-one--services">
     <div class="container">
         <div class="row">
             <!--Start Services One Single -->
@@ -68,24 +72,4 @@
     </div>
   </div>
 </template>
-<script>
-/*
-import  "@/rtl/assets/js/vendor/jquery-3.6.0.min.js"
-import  "@/rtl/assets/js/vendor/jquery-sidebar-content.js"
-import  "@/rtl/assets/js/bootstrap.min.js"
-import  "@/rtl/assets/js/isotope.pkgd.min.js"
-import  "@/rtl/assets/js/imagesloaded.pkgd.min.js"
-import  "@/rtl/assets/js/jquery.odometer.min.js"
-import  "@/rtl/assets/js/jquery.appear.js"
-import  "@/rtl/assets/js/ajax-form.js"
-import  "@/rtl/assets/js/wow.min.js"
-import  "@/rtl/assets/js/isotope.js"
-import  "@/rtl/assets/js/jquery.magnific-popup.min.js"
-import  "@/rtl/assets/js/gsap.js"
-import  "@/rtl/assets/js/ScrollTrigger.js"
-import  "@/rtl/assets/js/SplitText.js"
-import  "@/rtl/assets/js/main.js"
-*/
-
-</script>
 
