@@ -4,8 +4,8 @@
 
 <template>
   <!--Start Feature One-->
-  <section class="feature-one body-dark-bg">
-    <div class="feature-one__wrap mt-6 mb-6">
+  <section class="feature-one">
+    <div class="feature-one__wrap">
       <div class="feature-one__title-box">
         <h2 class="feature-one__title"><span class="icon-sparkle icon-one"></span>طراحی وب سایت</h2>
       </div>

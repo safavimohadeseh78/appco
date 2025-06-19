@@ -4,7 +4,7 @@
 .blog-one {
     position: relative;
     display: block;
-    background-color: var(--thm-black-bg);
+    /*background-color: var(--thm-black-bg);*/
     padding: 120px 0 90px;
     z-index: 1;
 }

@@ -1,31 +1,11 @@
 <script setup lang="ts">
-/*
-$(window).on("scroll", function () {
-  var scroll = $(window).scrollTop();
-  if (scroll < 245) {
-    $("#sticky-header").removeClass("sticky-menu");
-    $(".scroll-to-target").removeClass("open");
-  } else {
-    $("#sticky-header").addClass("sticky-menu");
-    $(".scroll-to-target").addClass("open");
-  }
-});
-*/
 
-const scrollTop = ref(0)
-
-onMounted(() => {
-  window.addEventListener('scroll', () => {
-    scrollTop.value = window.scrollY
-  })
-})
 </script>
 
 <template>
-
   <!--Start Main Header One -->
-  <header class="main-header main-header-one" dir="rtl">
-    <div id="sticky-header" class="menu-area" :class="scrollTop > 245 && 'sticky-menu'">
+  <header class="main-header main-header-one">
+    <div id="sticky-header" class="menu-area">
       <div class="container">
         <div class="menu-area__inner">
           <div class="mobile-nav-toggler"><i class="fas fa-bars"></i></div>
@@ -146,7 +126,6 @@ onMounted(() => {
   <!--End Main Header One -->
 
 </template>
-
 
 <style scoped>
 
