@@ -1857,8 +1857,11 @@ label {
     transition-delay: 0.1s;
 }
 
-.projects-two__menu-box .project-filter li:hover .filter-text,
+/*.projects-two__menu-box .project-filter li:hover .filter-text,
 .projects-two__menu-box .project-filter li.active .filter-text {
+    color: #ffffff;
+}*/
+:deep(.project-filter li.active .filter-text) {
     color: #ffffff;
 }
 

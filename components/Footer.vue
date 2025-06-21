@@ -6,7 +6,7 @@
 
   <footer class="footer-one body-dark-bg" dir="rtl">
     <!-- Start Footer Main -->
-    <div class="footer-main">
+    <div class="footer-main container">
       <div class="container">
         <div class="row">
           <!--Start Single Footer Widget-->
@@ -48,7 +48,7 @@
               class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp"
               data-wow-delay="0.2s"
           >
-            <div class="single-footer-widget ml50">
+            <div class="single-footer-widget">
               <div class="title">
                 <h3>لینک‌های رایگان</h3>
               </div>
@@ -149,7 +149,7 @@
               class="col-xl-3 col-lg-6 col-md-6 wow animated fadeInUp"
               data-wow-delay="0.4s"
           >
-            <div class="single-footer-widget ml15">
+            <div class="single-footer-widget ">
               <div class="title">
                 <h3>وبلاگ‌های اخیر</h3>
               </div>

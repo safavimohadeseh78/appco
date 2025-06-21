@@ -1,5 +1,29 @@
-<script setup lang="ts">
+<script setup>
+import { onMounted, ref, nextTick } from 'vue'
 
+const isotopeInstance = ref(null)
+
+onMounted(async () => {
+  await nextTick()
+
+  const { default: Isotope } = await import('isotope-layout')
+
+  const grid = document.querySelector('.filter-layout')
+  if (!grid) return
+
+  isotopeInstance.value = new Isotope(grid, {
+    itemSelector: '.filter-item',
+    layoutMode: 'fitRows',
+  })
+
+  document.querySelectorAll('.project-filter li').forEach((filter) => {
+    filter.addEventListener('click', function () {
+      document.querySelectorAll('.project-filter li').forEach((f) => f.classList.remove('active'))
+      this.classList.add('active')
+      isotopeInstance.value?.arrange({ filter: this.getAttribute('data-filter') })
+    })
+  })
+})
 </script>
 
 <template>
@@ -150,9 +174,7 @@
       </div>
     </div>
   </section>
-
 </template>
 
 <style scoped>
-
 </style>

@@ -10,6 +10,7 @@
     <Part9/>
     <Part6/>
     <Part10/>
+    <scroll/>
   </div>
 </template>
 
@@ -24,4 +25,5 @@ import Part7 from "~/main/mainPage/components/Part7.vue";
 import Part8 from "~/main/mainPage/components/Part8.vue";
 import Part9 from "~/main/mainPage/components/Part9.vue";
 import Part10 from "~/main/mainPage/components/Part10.vue";
+import Scroll from "~/main/mainPage/components/scroll.vue";
 </script>

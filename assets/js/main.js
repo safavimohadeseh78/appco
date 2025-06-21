@@ -281,7 +281,7 @@
         TestimonialSwiperInit2();
         TestimonialSwiperInit3();
         TeamCarouselSwiperInit();
-        projectMasonaryLayout();
+        //projectMasonaryLayout();
         tg_title_animation();
         thmSwiperInit();
     });
