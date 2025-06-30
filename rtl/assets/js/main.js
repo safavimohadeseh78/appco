@@ -292,7 +292,7 @@
     //SubMenu Dropdown Toggle
     if ($(".menu-area li.menu-item-has-children ul").length) {
         $(".menu-area .navigation li.menu-item-has-children").append(
-            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>'
+            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>'yarn dev
         );
     }
 

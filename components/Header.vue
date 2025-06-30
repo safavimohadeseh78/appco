@@ -33,7 +33,7 @@ onMounted(() => {
             <nav class="menu-nav">
               <div class="logo-box-one">
                 <a href="index-2.html"
-                ><img src="@/rtl/assets/img/resource/logo-1.png" alt="لوگو"
+                ><img src="assets/img/resource/logo-1.png" alt="لوگو"
                 /></a>
               </div>
               <div class="navbar-wrap main-menu">
@@ -79,7 +79,7 @@ onMounted(() => {
                       <li><a href="blog-details.html">جزئیات بلاگ</a></li>
                     </ul>
                   </li>
-                  <li><a href="contact.html">تماس</a></li>
+                  <li> <NuxtLink to="/ContactPage">تماس</NuxtLink></li>
                 </ul>
               </div>
 
@@ -105,7 +105,7 @@ onMounted(() => {
             <div class="nav-logo">
               <a href="index-2.html"
               ><img
-                  src="@/rtl/assets/img/resource/mobile-menu-logo.png"
+                  src="assets/img/resource/mobile-menu-logo.png"
                   alt="لوگو"
               /></a>
             </div>

@@ -18,7 +18,7 @@
               <div class="our-company-info">
                 <div class="footer-logo-one">
                   <a href="index-2.html">
-                    <img src="@/rtl/assets/img/footer/logo-1.png" alt="" />
+                    <img src="assets/img/footer/logo-1.png" alt="" />
                   </a>
                 </div>
                 <div class="text">
@@ -158,7 +158,7 @@
                   <li>
                     <div class="footer-blog-thumb">
                       <img
-                          src="@/rtl/assets/img/footer/footer-blog-1.jpg"
+                          src="assets/img/footer/footer-blog-1.jpg"
                           alt=""
                       />
                     </div>
@@ -177,7 +177,7 @@
                   <li>
                     <div class="footer-blog-thumb">
                       <img
-                          src="@/rtl/assets/img/footer/footer-blog-2.jpg"
+                          src="assets/img/footer/footer-blog-2.jpg"
                           alt=""
                       />
                     </div>

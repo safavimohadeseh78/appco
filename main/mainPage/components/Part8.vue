@@ -14,6 +14,8 @@ onMounted(async () => {
   isotopeInstance.value = new Isotope(grid, {
     itemSelector: '.filter-item',
     layoutMode: 'fitRows',
+    transitionDuration: '1000ms'
+
   })
 
   document.querySelectorAll('.project-filter li').forEach((filter) => {
@@ -88,9 +90,9 @@ onMounted(async () => {
               <div class="col-xl-6 col-lg-6 col-md-6 filter-item innovate blockchain">
                 <div class="projects-two__single wow fadeInLeft" data-wow-delay=".1s">
                   <div class="projects-two__single-img">
-                    <img src="@/rtl/assets/img/project/project-2-1.jpg" alt="" />
+                    <img src="assets/img/project/project-2-1.jpg" alt="" />
                     <div class="projects-two__link">
-                      <a class="img-popup" href="@/rtl/assets/img/project/project-2-1.jpg">
+                      <a class="img-popup" href="assets/img/project/project-2-1.jpg">
                         <span class="icon-plus"></span>
                       </a>
                     </div>
@@ -109,9 +111,9 @@ onMounted(async () => {
               <div class="col-xl-6 col-lg-6 col-md-6 filter-item consulting insights innovate">
                 <div class="projects-two__single wow fadeInRight" data-wow-delay=".1s">
                   <div class="projects-two__single-img">
-                    <img src="@/rtl/assets/img/project/project-2-2.jpg" alt="" />
+                    <img src="assets/img/project/project-2-2.jpg" alt="" />
                     <div class="projects-two__link">
-                      <a class="img-popup" href="@/rtl/assets/img/project/project-2-2.jpg">
+                      <a class="img-popup" href="assets/img/project/project-2-2.jpg">
                         <span class="icon-plus"></span>
                       </a>
                     </div>
@@ -130,9 +132,9 @@ onMounted(async () => {
               <div class="col-xl-6 col-lg-6 col-md-6 filter-item consulting security blockchain innovate">
                 <div class="projects-two__single wow fadeInLeft" data-wow-delay=".1s">
                   <div class="projects-two__single-img">
-                    <img src="@/rtl/assets/img/project/project-2-3.jpg" alt="" />
+                    <img src="assets/img/project/project-2-3.jpg" alt="" />
                     <div class="projects-two__link">
-                      <a class="img-popup" href="@/rtl/assets/img/project/project-2-3.jpg">
+                      <a class="img-popup" href="assets/img/project/project-2-3.jpg">
                         <span class="icon-plus"></span>
                       </a>
                     </div>
@@ -151,9 +153,9 @@ onMounted(async () => {
               <div class="col-xl-6 col-lg-6 col-md-6 filter-item innovate blockchain consulting">
                 <div class="projects-two__single wow fadeInRight" data-wow-delay=".1s">
                   <div class="projects-two__single-img">
-                    <img src="@/rtl/assets/img/project/project-2-4.jpg" alt="" />
+                    <img src="assets/img/project/project-2-4.jpg" alt="" />
                     <div class="projects-two__link">
-                      <a class="img-popup" href="@/rtl/assets/img/project/project-2-4.jpg">
+                      <a class="img-popup" href="assets/img/project/project-2-4.jpg">
                         <span class="icon-plus"></span>
                       </a>
                     </div>

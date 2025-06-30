@@ -6,10 +6,10 @@
   <div>
     <section class="banner-two">
       <div class="shape1 float-bob-y">
-        <img src="@/rtl/assets/img/shape/banner-v2-shape1.png" alt="طرح دکوراتیو 1" />
+        <img src="assets/img/shape/banner-v2-shape1.png" alt="طرح دکوراتیو 1" />
       </div>
       <div class="shape3 float-bob-y">
-        <img src="@/rtl/assets/img/shape/banner-v2-shape3.png" alt="طرح دکوراتیو 3" />
+        <img src="assets/img/shape/banner-v2-shape3.png" alt="طرح دکوراتیو 3" />
       </div>
       <div class="container">
         <div class="row">
@@ -27,17 +27,17 @@
                 <ul>
                   <li>
                     <div class="img-box">
-                      <img src="@/rtl/assets/img/slider/banner-v2-img1.png" alt="تصویر 1 از پروژه‌های فناوری" />
+                      <img src="assets/img/slider/banner-v2-img1.png" alt="تصویر 1 از پروژه‌های فناوری" />
                     </div>
                   </li>
                   <li>
                     <div class="img-box">
-                      <img src="@/rtl/assets/img/slider/banner-v2-img2.png" alt="تصویر 2 از پروژه‌های فناوری" />
+                      <img src="assets/img/slider/banner-v2-img2.png" alt="تصویر 2 از پروژه‌های فناوری" />
                     </div>
                   </li>
                   <li>
                     <div class="img-box">
-                      <img src="@/rtl/assets/img/slider/banner-v2-img3.png" alt="تصویر 3 از پروژه‌های فناوری" />
+                      <img src="assets/img/slider/banner-v2-img3.png" alt="تصویر 3 از پروژه‌های فناوری" />
                     </div>
                   </li>
                   <li>
@@ -69,7 +69,7 @@
           <div class="col-xl-5 col-lg-6 wow fadeInRight" data-wow-delay="100ms">
             <div class="banner-two__img">
               <div class="inner">
-                <img src="@/rtl/assets/img/slider/banner-v2-img4.png" alt="تصویر مرتبط با فناوری" />
+                <img src="assets/img/slider/banner-v2-img4.png" alt="تصویر مرتبط با فناوری" />
               </div>
             </div>
           </div>
@@ -79,7 +79,7 @@
           <div class="col-xl-3 col-lg-12 wow fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
             <div class="banner-two__right-content">
               <div class="shape2 rotate-me">
-                <img src="@/rtl/assets/img/shape/banner-v2-shape2.png" alt="طرح دکوراتیو 2" />
+                <img src="assets/img/shape/banner-v2-shape2.png" alt="طرح دکوراتیو 2" />
               </div>
               <div class="text">
                 <p>
@@ -88,7 +88,7 @@
                 </p>
               </div>
               <div class="img-box float-bob-y">
-                <img src="@/rtl/assets/img/slider/banner-v2-img5.png" alt="تصویر نمایشی از خدمات" />
+                <img src="assets/img/slider/banner-v2-img5.png" alt="تصویر نمایشی از خدمات" />
               </div>
 
               <div class="banner-two__right-content-bottom">

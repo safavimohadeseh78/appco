@@ -1,4 +1,4 @@
-const cssModules = import.meta.glob('@/rtl/assets/css/**/*.css', { as: 'raw' })
+const cssModules = import.meta.glob('assets/css/**/*.css', { as: 'raw' })
 
 for (const path in cssModules) {
     // بارگذاری دینامیک هر فایل

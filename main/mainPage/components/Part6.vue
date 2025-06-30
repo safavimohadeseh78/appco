@@ -5,7 +5,7 @@
 <template>
   <section class="subscribe-one subscribe-one--two">
     <div class="shape1 float-bob-x">
-      <img src="@/rtl/assets/img/shape/subscribe-v2-shape1.png" alt="شکل اشتراک" />
+      <img src="assets/img/shape/subscribe-v2-shape1.png" alt="شکل اشتراک" />
     </div>
     <div class="container">
       <div class="row">

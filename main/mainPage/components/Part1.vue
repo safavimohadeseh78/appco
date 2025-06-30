@@ -3,7 +3,7 @@
     <section >
       <div class="video-hero jquery-background-video-wrapper demo-video-wrapper">
         <video class="jquery-background-video" autoplay muted loop>
-          <source src="@/rtl/assets/img/agency.mp4" type="video/mp4">
+          <source src="assets/img/agency.mp4" type="video/mp4">
         </video>
         <div class="video-overlay"></div>
         <div class="video-hero--content">

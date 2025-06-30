@@ -9,7 +9,7 @@
         <div class="col-xl-6">
           <div class="about-one__img">
             <div class="about-one__shape1 float-bob-y">
-              <img src="@/rtl/assets/img/shape/about-one__shape1.png" alt="" />
+              <img src="assets/img/shape/about-one__shape1.png" alt="" />
             </div>
             <div class="about-one__img-icon">
               <a href="about.html"><span class="icon-plus-1"></span></a>
@@ -20,14 +20,14 @@
                 <li>
                   <div class="about-one__single-img-box wow animated fadeInRight" data-wow-delay="0.1s">
                     <div class="inner">
-                      <img src="@/rtl/assets/img/about/about-one__img1.jpg" alt="" />
+                      <img src="assets/img/about/about-one__img1.jpg" alt="" />
                     </div>
                   </div>
                 </li>
                 <li>
                   <div class="about-one__single-img-box wow animated fadeInLeft" data-wow-delay="0.1s">
                     <div class="inner">
-                      <img src="@/rtl/assets/img/about/about-one__img2.jpg" alt="" />
+                      <img src="assets/img/about/about-one__img2.jpg" alt="" />
                     </div>
                   </div>
                 </li>
@@ -41,14 +41,14 @@
                 <li>
                   <div class="about-one__single-img-box wow animated fadeInRight" data-wow-delay="0.1s">
                     <div class="inner">
-                      <img src="@/rtl/assets/img/about/about-one__img3.jpg" alt="" />
+                      <img src="assets/img/about/about-one__img3.jpg" alt="" />
                     </div>
                   </div>
                 </li>
                 <li>
                   <div class="about-one__single-img-box wow animated fadeInLeft" data-wow-delay="0.1s">
                     <div class="inner">
-                      <img src="@/rtl/assets/img/about/about-one__img4.jpg" alt="" />
+                      <img src="assets/img/about/about-one__img4.jpg" alt="" />
                     </div>
                   </div>
                 </li>

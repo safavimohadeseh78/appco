@@ -29,6 +29,7 @@ export default defineNuxtConfig({
         head: {
             script: [
                 {src: '/rtl/assets/js/main.js', defer: true},
+
             ],
         }
     }

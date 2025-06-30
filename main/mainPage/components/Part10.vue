@@ -13,7 +13,7 @@
             <nav class="menu-nav">
               <div class="logo-box-one">
                 <a href="index-2.html"
-                ><img src="@/rtl/assets/img/resource/logo-1.png" alt="لوگو"
+                ><img src="assets/img/resource/logo-1.png" alt="لوگو"
                 /></a>
               </div>
               <div class="navbar-wrap main-menu">
@@ -85,7 +85,7 @@
             <div class="nav-logo">
               <a href="index-2.html"
               ><img
-                  src="@/rtl/assets/img/resource/mobile-menu-logo.png"
+                  src="assets/img/resource/mobile-menu-logo.png"
                   alt="لوگو"
               /></a>
             </div>
