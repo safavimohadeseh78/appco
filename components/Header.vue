@@ -15,11 +15,14 @@ $(window).on("scroll", function () {
 const scrollTop = ref(0)
 
 onMounted(() => {
+  // هندل تغییر اسکرول برای استیکی‌منو
   window.addEventListener('scroll', () => {
     scrollTop.value = window.scrollY
   })
+
 })
 </script>
+
 
 <template>
 

@@ -292,7 +292,7 @@
     //SubMenu Dropdown Toggle
     if ($(".menu-area li.menu-item-has-children ul").length) {
         $(".menu-area .navigation li.menu-item-has-children").append(
-            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>'yarn dev
+            '<div class="dropdown-btn"><span class="fas fa-angle-down"></span></div>'
         );
     }
 
@@ -309,7 +309,7 @@
         //Menu Toggle Btn
         $(".mobile-nav-toggler").on("click", function () {
             $("body").addClass("mobile-menu-visible");
-        });
+        });0
 
         //Menu Toggle Btn
         $(".menu-backdrop, .mobile-menu .close-btn").on("click", function () {

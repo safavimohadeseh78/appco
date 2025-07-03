@@ -13,6 +13,15 @@
     top: 15px;
 }
 
+@media (max-width: 1225px) {
+    .menu-nav__right {
+        display: none !important;
+    }
+    .menu-area .mobile-nav-toggler {
+        display: block !important;
+    }
+}
+
 .nav-logo img {
     width: 150px;
 }
@@ -380,7 +389,7 @@
 
 .menu-area__inner {
     position: relative;
-    display: block;
+    /*display: block;*/
 }
 
 .menu-nav {
